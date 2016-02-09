@@ -1,6 +1,6 @@
-# javabuatbidang
-bit.ly/fencode
+# fencode java
+(bit.ly/fencode)
 
-Berisi :
+Contents :
 
-Membuat persegi : persegi.java
+Coming soon
